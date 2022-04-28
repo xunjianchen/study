@@ -1,0 +1,5 @@
+2022/04/15 18:39:10.665429 E:/code/testProject/study/log.go:18: 这是一条很普通的日志。
+2022/04/15 18:39:47 这是一条很普通的日志。
+[小王子]2022/04/15 18:41:47 这是一条很普通的日志。 map[aa:cc]
+[]2022/04/15 18:48:23.838721 E:/code/testProject/study/log.go:18:  map[aa:cc]
+[神仙]2022/04/15 18:49:22.124012 E:/code/testProject/study/log.go:18: 这是说明 map[aa:cc]
